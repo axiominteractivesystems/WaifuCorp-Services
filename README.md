@@ -1,0 +1,2 @@
+# WaifuCorp-Services
+Game Policies
